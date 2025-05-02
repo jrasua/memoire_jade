@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Questionnaire Patients</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Questionnaire pour les patients</h1>
+  <!-- Formulaire Google intégré via iframe -->
+  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd1nUJl2qfC3IKwfdrXeiAFPPIWz1A9YvzV55HiySScrzC6UQ/viewform?embedded=true" width="100%" height="1200px" frameborder="0" marginheight="0" marginwidth="0">Chargement…</iframe>
+</body>
+</html>
