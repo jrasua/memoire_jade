@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page non trouvée</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #F4F4F4;
+            color: #333;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            font-size: 48px;
+            color: #C3423F;
+        }
+        p {
+            font-size: 18px;
+            color: #395B50;
+        }
+        a {
+            font-size: 18px;
+            color: #1F2F16;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Oups ! Page non trouvée.</h1>
+    <p>Désolé, la page que vous recherchez n'existe pas ou a été déplacée.</p>
+    <p><a href="index.html">Retour à l'accueil</a></p>
+</body>
+</html>
